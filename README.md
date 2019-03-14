@@ -1,6 +1,6 @@
 ## Quem sou?
 
-Meu nome é Kaique Rodrigues Correia, sou desenvolvedor Web e Mobile PHP, NodeJs, ReactJS e React Native, Formado em Análise e Desenvolvimento de Sistemas, pelas Faculdades Integradas de Três Lagoas (AEMS). Sou apaixonado por desenvolvimento e tecnologias emergentes.
+Meu nome é Kaique Rodrigues Correia, Tenho 24 anos, sou desenvolvedor Web e Mobile PHP, NodeJs, ReactJS e React Native, Formado em Análise e Desenvolvimento de Sistemas, pelas Faculdades Integradas de Três Lagoas (AEMS). Sou apaixonado por desenvolvimento e tecnologias emergentes.
 
 ## Resumo profissional
 
