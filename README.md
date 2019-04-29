@@ -20,7 +20,7 @@ Graduado em Análise e Desenvolvimento de Sistemas - AEMS (2013 – 2016).
 ## Habilidades
 
 * Conhecimento sólido em PHP.
-* Conhecimento intermediário nas tecnologias NodeJs, ReactJS, React-Native, Redux, Redux Saga, TDD, jQuery, MariaDB, MongoDB, C#, API Rest, Git, GitHub, Docker, MVC.
+* Conhecimento intermediário nas tecnologias NodeJs, ReactJS, React-Native, Redux, Redux Saga, TDD, jQuery, MariaDB, MongoDB, API Rest, Git, GitHub, Docker, MVC.
 * Conhecimento das tecnologias Slim Framework (PHP), AdonisJS (JavaScript), ExpressJS(JavaScript). 
 * Conhecimentos básicos de C#.
 * Conhecimento de infraestrutura e redes.
