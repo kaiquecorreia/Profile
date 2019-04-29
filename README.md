@@ -50,6 +50,7 @@ Graduado em Análise e Desenvolvimento de Sistemas - AEMS (2013 – 2016).
 * http://www.interclinicas.com.br;
 * http://www.altech.inf.br;
 * Windows Service em C# responsável por envio de e-mails, a partir de um arquivo gerado por um ERP.
+* SmartQueu - Sistema de senhas para laboratórios e clínicas médicas.
 
 ## Ferramentas
 
