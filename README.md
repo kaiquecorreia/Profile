@@ -30,7 +30,7 @@ Graduado em Análise e Desenvolvimento de Sistemas - AEMS (2013 – 2016).
 
 ## Formação complementar
 
-* Treinamento GoStack (NodeJS, ReactJS, React Native) - RocketSeat - Cursando.
+* Treinamento GoStack (NodeJS, ReactJS, React Native) - RocketSeat.
 * Programador Visual Basic – Advanced Cursos – 80 Horas.
 * Desenvolvedor React Native - Udemy - 37,5 Horas.
 * PHP Orientado a Objetos – Upinside Treinamentos (228 Horas).
