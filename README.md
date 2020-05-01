@@ -4,7 +4,22 @@ Meu nome é Kaique Rodrigues Correia, Tenho 24 anos, sou desenvolvedor Web Fulls
 
 ## Resumo profissional
 
-Comecei com desenvolvimento web em 2016 como autônomo, com meus primeiros Websites www.unimedtreslagoas.com.br, www.medicalcenter.org.br. Utilizando as tecnologias PHP, Bootstrap, Jquery. Realizei projetos em C#, criando um Windows Service cujo o objetivo é, ler arquivos gerados de um ERP e enviar um e-mail com as informações contidas nos arquivos. Desenvolvi um sistema em PHP para senhas, onde o cliente escolhe uma opção e é gerado um senha impressa para ser chamado em um display direto do navegador. Trabalhei com projetos em React Native, em um app para área da saúde, cujo objetivo era oferecer atendimento 24 horas para pacientes que tinham convênios médico parceiros.Atualmente estou trabalhando na empresa Biologia Total, que oferece uma plataforma de ensino web para estudantes com foco em vestibular e Enem. Como desenvolvedor Fullstack, sou responsável por melhorias e novas funcionalidades na plataforma. Atualmente minha principal stack de trabalho é Javascript e Banco de dados MongoDB. Gosto bastante de comunidades e costumo ser ativo em comunidades do discord. Tenho facilidade com aprendizagem; estou sempre me atualizando e me profissionalizando, para que eu possa obter ótimos resultados constantemente. 
+Desenvolvedor FullStack, comecei com desenvolvimento web em 2016 como autônomo na Al-tech, com meus primeiros Websites:
+- www.unimedtreslagoas.com.br;
+- www.medicalcenter.org.br;
+Utilizando as tecnologias PHP, Bootstrap, Jquery.
+
+Realizei projetos em C#, criando um Windows Service cujo o objetivo é, ler arquivos gerados de um ERP e enviar um e-mail com as informações contidas nos arquivos.
+
+Desenvolvi um sistema em PHP para senhas, onde o cliente escolhe uma opção e é gerado um senha impressa para ser chamado em um display direto do navegador.
+
+Trabalhei com projetos em React Native, em um app para área da saúde, cujo objetivo era oferecer atendimento 24 horas para pacientes que tinham convênios médico parceiros.
+
+Trabalhei na empresa Biologia Total, que oferece uma plataforma de ensino web para estudantes com foco em vestibular e Enem. Como desenvolvedor Fullstack, era responsável por melhorias e novas funcionalidades na plataforma.
+
+Atualmente trabalho na Asksuite, uma empresa que oferece um Chatbot focado em hotelaria, como principais tecnologias utilizo angular, Nodejs, Java, Postgres.
+
+Atualmente minha principal Stack de trabalho é Javascript e Banco de dados MongoDB. Gosto bastante de comunidades e costumo ser ativo em comunidades do discord. Tenho facilidade com aprendizagem; estou sempre me atualizando e me profissionalizando, para que eu possa obter ótimos resultados constantemente.
 
 ## Formação acadêmica
 
